@@ -1,10 +1,3 @@
-/*
-  This code should work to get warning cross the buzzer when something be closer than 0.5 meter
-  Circuit is ultrasonic sensor and buzzer +5v and Arduino uno is used
-  a_atef45@yahoo.com
-  www.zerosnones.net
-  +201153300223
-*/
 // Define pins for ultrasonic and buzzer
 #define relay 10
 int LED = 12;
