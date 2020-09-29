@@ -1,3 +1,6 @@
+/*
+Density Based Traffic Lights
+*/
 #define ledA1 2
 #define ledA2 3
 #define ledA3 4
