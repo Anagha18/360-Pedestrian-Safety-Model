@@ -1,4 +1,4 @@
-#Pedestrian Safety on Busy Roads
+# Pedestrian Safety on Busy Roads
 
 ## Details
 The aim of this project is to design an effective traffic control system
